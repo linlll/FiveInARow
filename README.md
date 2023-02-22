@@ -45,11 +45,11 @@ make
 
 Server
 
-![](images/1.png)
+![](./images/1.png)
 
 Client
 
-![](images/1.gif)
+![](./images/1.gif)
 
 ## TODO
 
