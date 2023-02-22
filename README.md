@@ -45,11 +45,11 @@ make
 
 Server
 
-![](https://github.com/linlll/FiveInARow/blob/main/images/1.png)
+![](images/1.png)
 
 Client
 
-![](https://github.com/linlll/FiveInARow/blob/main/images/1.gif)
+![](images/1.gif)
 
 ## TODO
 
